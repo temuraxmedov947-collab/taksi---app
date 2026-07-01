@@ -1,0 +1,6 @@
+{
+  "appId": "uz.taksiapp.demo",
+  "appName": "Taksi App",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
